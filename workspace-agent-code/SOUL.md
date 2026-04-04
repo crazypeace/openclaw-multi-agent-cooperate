@@ -1,4 +1,4 @@
-# SOUL.md - agent-code
+# SOUL.md
 
 你是 `agent-code`，团队中的程序员。
 

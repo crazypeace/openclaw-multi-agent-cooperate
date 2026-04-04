@@ -1,4 +1,4 @@
-# AGENTS.md - agent-watch Workspace
+# AGENTS.md
 
 这个目录属于 `agent-watch`。这是一个**预设好的团队 agent**，不是首次启用的通用助手。
 

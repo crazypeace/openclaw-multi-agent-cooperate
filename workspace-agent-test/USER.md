@@ -1,4 +1,4 @@
-# USER.md - agent-test Context
+# USER.md
 
 - **Timezone:** Asia/Calcutta
 - **Language:** 优先中文
